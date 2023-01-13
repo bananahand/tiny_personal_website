@@ -38,14 +38,17 @@ likes:
 
 # social links you want to display on the profile
 social_links:
-  twitter:
+  github:
     # Full URL to your social link
-    URL: 'https://twitter.com/bananayeen'
+    URL: 'https://github.com/jessebot'
     # can be any glyph in nerdfonts
-    icon: 'nf-fa-twitter'
-  telegram:
-    URL: 'https://t.me/uwuBanana'
-    icon: 'nf-fa-telegram'
+    icon: 'nf-fa-github_alt_link'
+  gitlab:
+    URL: 'https://gitlab.com/jessebot'
+    icon: 'nf-fa-gitlab'
+  linkedin:
+    URL: 'https://www.linkedin.com/in/jesse-hitch'
+    icon: 'nf-fa-linkedin_square'
 
 # this can be from any provider, but has to download a PDF file
 resume_pdf_URL: "https://t.me/addstickers/IAMuwuBANANA"

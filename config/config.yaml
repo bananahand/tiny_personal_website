@@ -2,53 +2,50 @@
 # favicon, can take any image type
 favicon: 'favicon.ico'
 # URL to the website
-website_url: 'https://jessebot.work'
+website_url: 'https://murr.club/banana'
 # domain name, or whatever you want the tab in the browser to say
-website_title: "Jesse's resume"
+website_title: "Banana"
 # set to false to remove fork me banner in uppper right corner
-fork_me: true
+fork_me: false
 
 
 # image shown at the front of the page, this should be in /static/img
 profile_image: 'my_picture.png'
 # image alt text
-profile_image_alt: 'Portrait selfie of a 29 year old person with an undercut and medium legnth blue hair parted to the side. They are smiling and wearing a black shirt.'
+profile_image_alt: 'Portrait selfie of an anthromorphic hyena with yellow fur, brown spots, green eyes and a green mohawk. He is smiling.'
 # Your name
-name: 'Jesse Hitch'
+name: 'Banana'
 # Pronouns
-pronouns: 'they/them'
+pronouns: 'he/him'
 # blurb about yourself
-blurb: "You can probably call me if there's a problem with kubernetes, CI/CD, a python app, or you need help with most things to do with the web. I also put too much effort into terminal based interfaces, and if you let me, will draw pictures of my infra."
+blurb: "I'm a big fluffy hyena that loves to chill and make new friends! I do IT stuff for work and I'm always learning new things. My fursuit maker is https://twitter.com/wolf_daz."
 
 # Job Title
-occupation: 'DevOps Engineer'
+occupation: 'Cloud Yeen'
 # Skills - what you're good at.
 skills:
   - linux
   - devops
-  - python
-  - kubernetes
-  - cicd
+  - webhosting
+  - being cute
 
 # This is for a section to humanize the user
 likes:
-  - comfy couches
-  - videogames
-  - analogies
+  - sleeping
+  - cuddles
+  - parties
+  - video games
 
 # social links you want to display on the profile
 social_links:
-  github:
+  twitter:
     # Full URL to your social link
-    URL: 'https://github.com/jessebot'
+    URL: 'https://twitter.com/bananayeen'
     # can be any glyph in nerdfonts
-    icon: 'nf-fa-github_alt_link'
-  gitlab:
-    URL: 'https://gitlab.com/jessebot'
-    icon: "nf-fa-gitlab"
-  linkedin:
-    URL: 'https://www.linkedin.com/in/jesse-hitch'
-    icon: 'nf-fa-linkedin_square'
+    icon: 'nf-fa-twitter_square'
+  telegram:
+    URL: 'https://t.me/uwuBanana'
+    icon: "nf-fa-telegram"
 
 # this can be from any provider, but has to download a PDF file
-resume_pdf_URL: "https://docs.google.com/document/d/1O-qsyVP444QeaBi9EwygDlGzIWvMMUJP80cPsk2Z6lg/export?format=pdf"
+resume_pdf_URL: "https://t.me/addstickers/IAMuwuBANANA"

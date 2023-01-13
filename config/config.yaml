@@ -42,10 +42,10 @@ social_links:
     # Full URL to your social link
     URL: 'https://twitter.com/bananayeen'
     # can be any glyph in nerdfonts
-    icon: 'nf-fa-twitter_square'
+    icon: 'nf-fa-twitter'
   telegram:
     URL: 'https://t.me/uwuBanana'
-    icon: "nf-fa-telegram"
+    icon: 'nf-fa-telegram'
 
 # this can be from any provider, but has to download a PDF file
 resume_pdf_URL: "https://t.me/addstickers/IAMuwuBANANA"

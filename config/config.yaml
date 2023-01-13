@@ -2,7 +2,7 @@
 # favicon, can take any image type
 favicon: 'favicon.ico'
 # URL to the website
-website_url: 'https://murr.club/banana'
+website_url: 'https://banana.murr.club'
 # domain name, or whatever you want the tab in the browser to say
 website_title: "Banana"
 # set to false to remove fork me banner in uppper right corner
